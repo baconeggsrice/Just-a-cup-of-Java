@@ -8,4 +8,6 @@ public abstract class Shape {
         this.x = x;
         this.y = y;
     }
+
+
 }
