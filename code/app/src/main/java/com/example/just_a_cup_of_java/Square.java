@@ -4,6 +4,7 @@ import static java.sql.DriverManager.println;
 
 public class Square extends Shape {
 
+    String color = "blue";
     public Square(int x , int y){
         super(x, y);
     }
